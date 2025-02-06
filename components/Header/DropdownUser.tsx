@@ -52,9 +52,7 @@ const DropdownUser = () => {
         <span className="h-12 w-12 rounded-full overflow-hidden">
           <img
             className="rounded-full h-11 w-11 object-cover"
-            src={
-              "https://fifpro.org/media/5chb3dva/lionel-messi_imago1019567000h.jpg?rxy=0.32986930611281567,0.18704579979466449&rnd=133378758718600000"
-            }
+            src={"/images/cover/cover-01.png"}
             alt="User"
           />
         </span>
